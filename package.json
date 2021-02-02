@@ -5,17 +5,17 @@
   "license": "MIT",
   "description": "milestoneDB PostgreSQL port",
   "version": "0.0.1",
-  "homepage": "https://github.com/zbryikt/sharedb-pg-mdb",
+  "homepage": "https://github.com/plotdb/sharedb-pg-mdb",
   "repository": {
     "type": "git",
-    "url": "https://github.com/zbryikt/sharedb-pg-mdb"
+    "url": "https://github.com/plotdb/sharedb-pg-mdb"
   },
   "engines": {
     "node": ">=0.12.6",
     "npm": ">=1.2.2"
   },
   "dependencies": {
-    "pg": "^7.4.1",
+    "pg": "^8.5.1",
     "sharedb": "^1.3.4"
   }
 }
